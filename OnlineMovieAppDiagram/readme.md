@@ -12,6 +12,6 @@ Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 <br/><br/>
 **Diagram**
 
-![Image](onlinemovieappdiagram.png)
+![Image](OnlineMovieAppDiagram.png)
 <br/><br/>
 Bu proje [Patika.dev](https://www.patika.dev/tr) eğitimi kapsamında yapılmıştır.
